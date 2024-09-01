@@ -1,0 +1,22 @@
+#words for hangman
+
+words = ("apple", "banana", "horizon", "whisper", "echo", "galaxy", "lantern", "velvet", "thunder", "mist", 
+"oasis", "ripple", "meadow", "ember", "quiver", "drift", "summit", "blossom", "frost", "feather", 
+"glimmer", "serene", "twilight", "canyon", "breeze", "solstice", "harbor", "fern", "dusk", "petal", 
+"cascade", "grove", "pebble", "zenith", "nectar", "gleam", "forest", "glade", "aurora", "starling", 
+"willow", "tranquil", "lush", "quartz", "lunar", "sunbeam", "sapphire", "ember", "brook", "thistle", 
+"ember", "cherry", "golden", "silver", "opal", "topaz", "flicker", "cobblestone", "silhouette", 
+"misty", "raindrop", "echo", "dandelion", "fir", "pine", "cypress", "maple", "oak", "ash", "spruce", 
+"elm", "birch", "willow", "chestnut", "beech", "cedar", "holly", "juniper", "lilac", "ivy", "orchid", 
+"rose", "tulip", "daisy", "sunflower", "marigold", "magnolia", "azalea", "lavender", "poppy", 
+"violet", "lily", "peony", "gardenia", "daffodil", "begonia", "camellia", "snapdragon", "zinnia", 
+"phlox", "geranium", "hibiscus", "chrysanthemum", "amaryllis", "petunia", "foxglove", "delphinium", 
+"hyacinth", "crocus", "iris", "carnation", "cosmos", "bluebell", "buttercup", "aster", "heather", 
+"honeysuckle", "jasmine", "snowdrop", "sweetpea", "freesia", "scilla", "anemone", "gerbera", 
+"bluet", "clover", "foxglove", "heather", "huckleberry", "lichen", "moss", "fern", "reed", "waterlily", 
+"lotus", "calla", "marigold", "milkweed", "mimosa", "nasturtium", "oleander", "periwinkle", "primrose", 
+"ragweed", "rhododendron", "snapdragon", "spirea", "violet", "wisteria", "yarrow", "zinnia", 
+"chrysanthemum", "alder", "aloe", "amaranth", "anthurium", "apple", "arbutus", "ash", "bamboo", 
+"bay", "beech", "birch", "blackthorn", "box", "broom", "buttercup", "cabbage", "camphor", "cedar", 
+"cherry", "chestnut", "citrus", "clover", "cork", "cranberry", "cypress", "dogwood", "elder", 
+"elm", "fig", "fir", "ginkgo", "hazel", "hawthorn", "hemlock", "holly", "honeysuckle", "huckleberry")
